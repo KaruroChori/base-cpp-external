@@ -1,0 +1,27 @@
+[submodule "opt/json"]
+	path = opt/json
+	url = https://github.com/nlohmann/json
+[submodule "opt/cpr"]
+	path = opt/cpr
+	url = https://github.com/whoshuu/cpr
+[submodule "opt/cpp-httplib"]
+	path = opt/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib
+[submodule "opt/zlib"]
+	path = opt/zlib
+	url = https://github.com/madler/zlib
+[submodule "opt/refl-cpp"]
+	path = opt/refl-cpp
+	url = https://github.com/veselink1/refl-cpp
+[submodule "lua/middleclass"]
+	path = lua/middleclass
+	url = https://github.com/kikito/middleclass
+[submodule "opt/json-schema-validator"]
+	path = opt/json-schema-validator
+	url = https://github.com/KaruroChori/json-schema-validator
+[submodule "opt/imgui"]
+	path = opt/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "opt/imtui"]
+	path = opt/imtui
+	url = https://github.com/ggerganov/imtui

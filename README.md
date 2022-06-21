@@ -16,6 +16,7 @@ By default cmake does not support any target yet. If you want to generate faster
 
 - **opt**: the external components.
 - **src**: the actual C++ files to be compiled into the exported library.
+- **lua**: scripting libraries for lua.
 - **apps**: C++ subprojects to be compiled and linked based on the exported library.
 - **test-suite**: C++ sub-projects used to test the library.
 - **benchmark-suite**: C++ sub-projects used to test performance of the library.
